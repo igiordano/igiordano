@@ -1,4 +1,4 @@
-## Hi there igiordano👋
+## Hi there [igiordano](https://github.com/igiordano)👋
 
 # 💫 About Me:
 🔭 actualmente trabajando en proyectos con python/django  con integracion de<br>bases de datos en MYSQL/SQLITE.<br> aplicando diseño web con CSS3 Y HTML5 Y BOOSTRAP<br><br> e integracion de testing QA y Automatico<br><br>🌱 EN CAPACITACION CONTINUA<br>
