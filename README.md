@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 actualmente trabajando en proyectos con python/django  con<br>bases de datos en MYSQL/SQLITE.<br> con diseño web en CSS3 Y HTML5 Y BOOSTRAP<br><br>🌱 EN CAPACITACION CONTINUA<br>
+🔭 actualmente trabajando en proyectos con python/django  con<br>bases de datos en MYSQL/SQLITE.<br> con diseño web en CSS3 Y HTML5 Y BOOSTRAP<br><br> e integracion de testing QA y Automatico<br><br>🌱 EN CAPACITACION CONTINUA<br>
 
 
 # 💻 Tech Stack:
